@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas_intent</string>
+    <string name="rumus_persegi">Rumus Persegi</string>
+    <string name="rumussegitiga">rumussegitiga</string>
+    <string name="bitcoin_to_rupiah">Rumus Bitcoin ke Rupiah</string>
+    <string name="bitcoin_to_satoshi">rumus Bitcoin ke Satoshi</string>
+</resources>
